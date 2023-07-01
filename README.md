@@ -32,6 +32,9 @@ The code is divided into several sections, each serving a specific purpose. Here
 
 11. <h4>Products that are often sold together:</h4> This section identifies products that are frequently sold together by analyzing the order data and finding orders with two items.
 
+## Tableau Dashboard
+For a visual representation of the insights gained from this analysis, Tableau dashboards have been created. You can access them at the following link:https://public.tableau.com/app/profile/matthew.browning
+
 ## Requirements
 To run the SQL code and perform the sales data analysis, the following requirements should be met:
 
